@@ -5,5 +5,5 @@ TOP=.
 
 SubDir=src
 SubDir+=test
-SubDir+=doc
+SubDir+=docs
 
